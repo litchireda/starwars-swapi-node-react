@@ -1,9 +1,5 @@
 # starwars-swapi-node-react
  
-To run, open one terminal in the 'server' folder and run :
-
-`npm install` `node index.js`
-
-and open another terminal in the 'sw-frontend' folder and run :
-
-`npm install` `npm start`
+Using SWAPI API - https://swapi.dev/
+Hapi as the backend framework - https://hapi.dev/
+React JS FrontEnd
